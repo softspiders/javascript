@@ -16,7 +16,7 @@ No
 ## Running
 
 ```sh
-node index.js
+node index
 ```
 
 ### License
