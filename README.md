@@ -10,7 +10,7 @@
 No
 
 ## Direct descendants
-* [ts-hw]https://github.com/softspider/ts-hw)
+* [ts-hw](https://github.com/softspider/ts-hw)
 
 ## Requirements
 
