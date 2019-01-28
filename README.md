@@ -5,7 +5,7 @@
 No
 
 ## Direct descendants
-[typescript-HelloWorld](https://github.com/softspider/typescript-HelloWorld)
+[helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
 
 ## Requirements
 
@@ -19,4 +19,4 @@ node index
 
 ### License
 
-js-hw is [MIT licensed](./LICENSE).
+helloworld-in-javascript is [MIT licensed](./LICENSE).
