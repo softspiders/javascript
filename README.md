@@ -1,10 +1,5 @@
 # HelloWorld in JavaScript
 
-## SoftSpiders Tags
-
-* js
-* hw
-
 ## Direct ancestors
 
 No
