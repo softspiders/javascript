@@ -5,6 +5,7 @@
 No
 
 ## Direct descendants
+
 [helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
 
 ## Requirements
@@ -16,6 +17,10 @@ No
 ```sh
 node index
 ```
+
+## Author
+
+[Alexander Lapygin](https://github.com/AlexanderLapygin)
 
 ### License
 
