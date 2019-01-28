@@ -19,4 +19,4 @@ node index
 
 ### License
 
-helloworld-in-javascript is [MIT licensed](./LICENSE).
+Licensed under the [MIT license](./LICENSE).
