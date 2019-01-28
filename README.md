@@ -5,7 +5,7 @@
 No
 
 ## Direct descendants
-[typescript-HelloWorld](https://github.com/softspider/ts-hw)
+[typescript-HelloWorld](https://github.com/softspider/typescript-HelloWorld)
 
 ## Requirements
 
