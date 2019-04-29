@@ -6,8 +6,8 @@ No
 
 ## Direct feature descendants
 
-[js-test](https://github.com/softspider/js-test)
-[helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
+* [js-test](https://github.com/softspider/js-test)
+* [helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
 
 ## Requirements
 
