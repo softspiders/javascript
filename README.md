@@ -1,13 +1,15 @@
 # HelloWorld in JavaScript
 
-## Direct feature ancestors
-
-No
-
 ## Direct feature descendants
 
 * [js-test](https://github.com/softspider/js-test)
 * [helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
+
+
+## Direct code descendants
+
+* [js-test](https://github.com/softspider/js-test)
+
 
 ## Requirements
 
