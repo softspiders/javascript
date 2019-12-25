@@ -1,5 +1,9 @@
 # HelloWorld in JavaScript
 
+## Feature tags
+- helloworld
+- javascript
+
 ## Direct feature descendants
 
 * [js-test](https://github.com/softspider/js-test)
