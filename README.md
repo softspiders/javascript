@@ -1,7 +1,8 @@
 # HelloWorld in JavaScript
 
 ## Feature tags
-- helloworld
+
+- template
 - javascript
 
 ## Direct feature descendants
