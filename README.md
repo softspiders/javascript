@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # HelloWorld in JavaScript
 
 ## Feature tags
@@ -5,17 +7,10 @@
 - template
 - javascript
 
-## Direct feature descendants
+## Direct descendants - also by code
 
 * [js-test](https://github.com/softspider/js-test)
 * [helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
-
-
-## Direct code descendants
-
-* [js-test](https://github.com/softspider/js-test)
-* [helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
-
 
 ## Requirements
 
