@@ -9,7 +9,7 @@ SOFTSPIDERS
 
 ## Direct descendants - also by code
 
-* [js-test](https://github.com/softspider/js-test)
+* [jest](https://github.com/softspider/jest)
 * [helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
 
 ## Requirements
