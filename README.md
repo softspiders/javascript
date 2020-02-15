@@ -1,11 +1,12 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# HelloWorld in JavaScript
+# Minimalistic JavaScript starter
 
 ## Feature tags
 
-- template
 - javascript
+- starter
+- template
 
 ## Direct descendants - also by code
 
