@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # HelloWorld in JavaScript
 
@@ -9,8 +9,9 @@ SOFTSPIDERS
 
 ## Direct descendants - also by code
 
-* [jest](https://github.com/softspiders/jest)
-* [helloworld-in-typescript](https://github.com/softspiders/helloworld-in-typescript)
+- [node-cli-starter](https://github.com/softspiders/node-cli-starter)
+- [jest](https://github.com/softspiders/jest)
+- [helloworld-in-typescript](https://github.com/softspiders/helloworld-in-typescript)
 
 ## Requirements
 
@@ -24,7 +25,7 @@ node index
 
 ## Author
 
-[Alexander Lapygin](https://github.com/AlexanderLapygin)
+[Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
 
 ### License
 
