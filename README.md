@@ -11,7 +11,7 @@
 ## Direct descendants - also by code
 
 - [node-cli-starter](https://github.com/softspiders/node-cli-starter)
-- [jest](https://github.com/softspiders/jest-starter)
+- [jest-starter](https://github.com/softspiders/jest-starter)
 - [helloworld-in-typescript](https://github.com/softspiders/helloworld-in-typescript)
 
 ## Requirements
