@@ -8,7 +8,7 @@
 - starter
 - template
 
-## Direct descendants - also by code
+## Direct descendants
 
 - [node-cli-starter](https://github.com/softspiders/node-cli-starter)
 - [jest-starter](https://github.com/softspiders/jest-starter)
