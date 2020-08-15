@@ -8,12 +8,13 @@
 - starter
 - template
 
-## Direct descendants
+## Children
 
 - [node-cli-starter](https://github.com/softspiders/node-cli-starter)
 - [jest-starter](https://github.com/softspiders/jest-starter)
 - [helloworld-in-typescript](https://github.com/softspiders/helloworld-in-typescript)
-- [+***app***: js-app-starter](https://github.com/softspiders/js-app-starter)
+- [+ ***app***: js-app-starter](https://github.com/softspiders/js-app-starter)
+- [+ ***github-actions***: js-github-actions](https://github.com/softspiders/js-github-actions)
 
 ---
 
